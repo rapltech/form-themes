@@ -1,8 +1,8 @@
 {
     "name": "@rapltech/form-themes",
     "version": "1.0.0",
-    "description": "A JSON data package",
-    "files": ["data"],
+    "description": "Form theme JSON assets package",
+    "files": ["assets"],
     "keywords": ["json", "data", "npm"],
     "author": "RapL",
     "license": "MIT",
