@@ -1,9 +1,8 @@
 {
-    "name": "form-themes",
+    "name": "@rapltech/form-themes",
     "version": "1.0.0",
     "description": "A JSON data package",
-    "main": "index.js",
-    "files": ["data", "index.js"],
+    "files": ["data"],
     "keywords": ["json", "data", "npm"],
     "author": "RapL",
     "license": "MIT",

@@ -1,0 +1,240 @@
+{
+    "version": 1,
+    "properties": {
+        "layout": {
+            "type": "card"
+        },
+        "background": {
+            "type": "gradient",
+            "color": "#FFFFFF",
+            "gradient": {
+                "type": "linear",
+                "colors": [
+                    "#BFE3FF",
+                    "#FFD9D5"
+                ],
+                "angle": "180deg"
+            }
+        },
+        "header": {
+            "textStyle": {
+                "fontSize": "24px",
+                "style": "bold",
+                "color": "#172239"
+            },
+            "background": {
+                "type": "transparent",
+                "color": "#172239",
+                "gradient": {
+                    "type": "linear",
+                    "colors": [
+                        "#1e3c72",
+                        "#2a5298"
+                    ],
+                    "angle": "-20deg"
+                }
+            }
+        },
+        "pagination": {
+            "styleType": "1",
+            "color": "#0057ae"
+        },
+        "panel": {
+            "alignment": "center",
+            "background": {
+                "type": "color",
+                "color": "#FFF",
+                "gradient": {
+                    "type": "linear",
+                    "colors": [
+                        "#fdfbfb",
+                        "#ebedee"
+                    ],
+                    "angle": "180deg"
+                }
+            }
+        },
+        "fields": {
+            "color": {
+                "title": "#000",
+                "desc": "#000",
+                "hint": "#000",
+                "required": "red"
+            }
+        },
+        "components": {
+            "section": {
+                "color": "#0057ae"
+            },
+            "input": {
+                "background": {
+                    "type": "transparent",
+                    "color": "#FFFFFF",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#fdfbfb",
+                            "#ebedee"
+                        ],
+                        "angle": "180deg"
+                    }
+                },
+                "valueColor": "#172239",
+                "placeholderColor": "#cccccc",
+                "focusColor": "#0057ae",
+                "borderColor": "#cccccc"
+            },
+            "file": {
+                "background": {
+                    "type": "transparent",
+                    "color": "#FFFFFF",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#fdfbfb",
+                            "#ebedee"
+                        ],
+                        "angle": "180deg"
+                    }
+                },
+                "textStyle": {
+                    "color": "#172239"
+                },
+                "border": {
+                    "color": "#cccccc"
+                }
+            },
+            "choice": {
+                "optionTextColor": "#172239",
+                "selectedColor": "#0057ae",
+                "borderColor": "#cccccc",
+                "backgroundColor": "transparent"
+            },
+            "location": {
+                "textColor": "red"
+            },
+            "information": {
+                "textColor": "#172239"
+            },
+            "rating": {
+                "borderColor": "#0057ae"
+            }
+        },
+        "buttons": {
+            "language": {
+                "background": {
+                    "type": "color",
+                    "color": "#FFFFFF",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#1e3c72",
+                            "#2a5298"
+                        ],
+                        "angle": "45deg"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": "24px",
+                    "style": "bold",
+                    "color": "#172239"
+                },
+                "border": {
+                    "color": "#CCCCCC"
+                }
+            },
+            "previous": {
+                "background": {
+                    "type": "transparent",
+                    "color": "#FFFFFF",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#1e3c72",
+                            "#2a5298"
+                        ],
+                        "angle": "45deg"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": "24px",
+                    "style": "bold",
+                    "color": "#0057ae"
+                },
+                "border": {
+                    "color": "transparent"
+                }
+            },
+            "next": {
+                "background": {
+                    "type": "transparent",
+                    "color": "#FFFFFF",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#1e3c72",
+                            "#2a5298"
+                        ],
+                        "angle": "45deg"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": "24px",
+                    "style": "bold",
+                    "color": "#0057ae"
+                },
+                "border": {
+                    "color": "transparent"
+                }
+            },
+            "save": {
+                "background": {
+                    "type": "color",
+                    "color": "#0057ae",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#1e3c72",
+                            "#2a5298"
+                        ],
+                        "angle": "45deg"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": "24px",
+                    "style": "bold",
+                    "color": "#FFFFFF"
+                },
+                "border": {
+                    "color": "#0057ae"
+                }
+            },
+            "submit": {
+                "background": {
+                    "type": "color",
+                    "color": "#0057ae",
+                    "gradient": {
+                        "type": "linear",
+                        "colors": [
+                            "#1e3c72",
+                            "#2a5298"
+                        ],
+                        "angle": "45deg"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": "24px",
+                    "style": "bold",
+                    "color": "#FFFFFF"
+                },
+                "border": {
+                    "color": "#0057ae"
+                }
+            }
+        },
+        "loader": {
+            "styleType": "1",
+            "color": "#29b6f6"
+        }
+    }
+}
