@@ -1,19 +1,26 @@
 {
-    "name": "@rapltech/form-themes",
-    "version": "1.0.0",
-    "description": "Form theme JSON assets package",
-    "private": false,
-    "files": ["assets"],
-    "keywords": ["json", "data", "npm"],
-    "author": "RapL",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/rapltech/form-themes"
-      },
-      "bugs": {
-        "url": "https://github.com/rapltech/form-themes/issues"
-      },
-      "homepage": "https://github.com/rapltech/form-themes#readme"
-  }
-  
+  "name": "@rapltech/form-themes",
+  "version": "1.0.0",
+  "description": "Form theme JSON assets package",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "assets"
+  ],
+  "keywords": [
+    "json",
+    "data",
+    "npm"
+  ],
+  "author": "RapL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rapltech/form-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/rapltech/form-themes/issues"
+  },
+  "homepage": "https://github.com/rapltech/form-themes#readme"
+}
