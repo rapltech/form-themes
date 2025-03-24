@@ -2,6 +2,7 @@
     "name": "@rapltech/form-themes",
     "version": "1.0.0",
     "description": "Form theme JSON assets package",
+    "private": false,
     "files": ["assets"],
     "keywords": ["json", "data", "npm"],
     "author": "RapL",
