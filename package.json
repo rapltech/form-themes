@@ -1,6 +1,6 @@
 {
   "name": "@rapltech/form-themes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Form theme JSON assets package",
   "publishConfig": {
     "access": "public"

@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+            "name": "sunset Breeze",
+            "JSONPath": "assets/v2/JSON/sunset-breeze.json",
+            "thumbnail": "assets/v2/thumbnail/sunset-breeze.png"
+        },
+        {
+            "name": "Sky Blue",
+            "JSONPath": "assets/v2/JSON/sky-blue.json",
+            "thumbnail": "assets/v2/thumbnail/sky-blue.png"
+        },
+        {
+            "name": "Dark Indigo",
+            "JSONPath": "assets/v2/JSON/dark-indigo.json",
+            "thumbnail": "assets/v2/thumbnail/dark-indigo.png"
+        }
+    ]
+}
